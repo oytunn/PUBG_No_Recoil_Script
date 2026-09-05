@@ -6,6 +6,7 @@ This Python code will start pushing your mouse down whenyou click the left mouse
 You can take this code and run it in your own device .  Your current gun is shown on the screen. F12 ends the process. You can prefer different buttons and change them in the code.
 
 You are probibly get banned after some time.
+
 Before running the script your in-game sensitivities must be calibrated.  
 
 <img width="626" height="425" alt="Screenshot 2026-09-02 180530" src="https://github.com/user-attachments/assets/b1f45f6d-38d3-499f-90d0-5eef1c834b9e" />
