@@ -162,3 +162,5 @@ The table below lists the instantaneous angular offset per single round in seque
 | 76–150 | 1.1800° | ±0.4850° | Hard clamp ceiling (Maximum Horizontal Dispersion) |
 
 
+<img width="1280" height="800" alt="Screenshot 2026-09-05 204531" src="https://github.com/user-attachments/assets/653c56de-46fa-4411-9e6d-a6fadfac5601" />
+
